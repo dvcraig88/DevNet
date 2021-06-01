@@ -1,0 +1,6 @@
+echo "I am on my way to pass the Cisco DEVASC exam." > DEVASC.txtcxehceecho "I am on my way to pass the Cisco DEVASC exam." > DEVASC.txtecho "I am on my way to pass the Cisco DEVASC exam." > DEVASC.txtr r git config --global user.name "Sample User"
+git config --global user.email sample@example.com
+git config --global core.pager catgit config --global user.name "Sample User"
+git config --global user.email sample@example.com
+git config --global core.pager catAt this rate I will be ready for the exam in no time.
+I am a git beginner!
